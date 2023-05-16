@@ -1,4 +1,4 @@
-![Logo](https://cdn.discordapp.com/attachments/901767857854103552/1104806261003927654/image.png)
+![[Logo](https://cdn.discordapp.com/attachments/901767857854103552/1104806261003927654/image.png](https://cdn.discordapp.com/attachments/901767857854103552/1108160029946822766/236618056-84560e8d-c42c-4e90-839c-0cde4e77c616.png))](https://cdn.discordapp.com/attachments/901767857854103552/1108160029946822766/236618056-84560e8d-c42c-4e90-839c-0cde4e77c616.png)
 
 Welcome to the best telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
