@@ -38,7 +38,8 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     - Important: If your going to use this tool for any other activity then scraping make sure to select "Y" to scrape
       all users info because you will be needing their usernames.
 
-    - Proxies: The format of the proxies is hostname:port@username:password. I suggest using proxies for most functions 
+    - Proxies: The formats of the proxies are hostname:port@username:password or hostname:port:username:pass. 
+      I suggest using proxies for most functions 
       except for scraping / changing info :)  Using 0 proxies on everything should not be too bad, just make sure to use 
       multiple accounts if you do.
 
@@ -51,6 +52,10 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     - MassDM: The message.txt that is used for this tool is in HTML format, so if you want bold text for example you use
       <b>#text</b> and for an image you can just add an <a href=#Image link>.</a> to display this image and only add a 
       dot or anything as text else it won't show up :)
+
+    - Mass Forwarder: Like MassDM but uses a forwarder message instead. After 3 flags in a row the message that your 
+      using is 99% flagged so change it, flagged tokens can still be used in other functions and will be saved in 
+      massforwarder/flagged-clients folder
 
     - Messages: In forwarding and mass messaging your message could get flagged if enough users report this message. 
       If you start to see "[ERROR] {phone} got flagged." prompt when trying to send this message it 99% means that this 
