@@ -1,4 +1,4 @@
-![[Logo](https://cdn.discordapp.com/attachments/901767857854103552/1104806261003927654/image.png](https://cdn.discordapp.com/attachments/901767857854103552/1108160029946822766/236618056-84560e8d-c42c-4e90-839c-0cde4e77c616.png))](https://cdn.discordapp.com/attachments/901767857854103552/1108160029946822766/236618056-84560e8d-c42c-4e90-839c-0cde4e77c616.png)
+![Logo](https://cdn.discordapp.com/attachments/901767857854103552/1104806261003927654/image.png)
 
 Welcome to the best telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
@@ -26,8 +26,7 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     # Verification Scraper
 
 ## Future:
-
-    # User experience: Custom config for delays (default best), timer / count at top for certain functions
+ 
     # Remove clients from client checker gui
 
 ## Info
@@ -42,6 +41,11 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
       I suggest using proxies for most functions 
       except for scraping / changing info :)  Using 0 proxies on everything should not be too bad, just make sure to use 
       multiple accounts if you do.
+    
+    - Add members to group: This will always first join your clients to the destined group before adding your scraped 
+      users. In the adder folder you will find a config file to adjust at which added amount per client the program 
+      should wait and what the wait time should be. We need these waits else the members will look like their being 
+      added when they actually are not.
 
     - Admin Promoter: This feature needs atleast one of your clients to be admin in the channel and your clients to 
       have usernames. You can use the "Username Changer" to guarantee this works. 
@@ -77,6 +81,10 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     - Verification Scraper: This feature uses the title of the channel to scrape the members, this would normally not 
       work with the channel its @. Make sure that atleast one of your clients is in this channel through manually 
       verifying if needed.
+
+    - Group Advertiser: For this feature I recommend using atleast 10 minute delay between groups for safety of your 
+      account. This works with multiple accounts too but if you have a HQ account using one should be fine and would 
+      also be the fastest way.
 
 ## Suggestions / Feedback
 
