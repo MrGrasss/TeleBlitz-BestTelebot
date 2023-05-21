@@ -1,4 +1,4 @@
-![[Logo](https://cdn.discordapp.com/attachments/901767857854103552/1104806261003927654/image.png)](https://cdn.discordapp.com/attachments/901767857854103552/1109462432755228792/image.png)
+![[Logo](https://cdn.discordapp.com/attachments/901767857854103552/1109812671202730084/Screenshot_1.png)](https://cdn.discordapp.com/attachments/901767857854103552/1109812671202730084/Screenshot_1.png)
 
 Welcome to the best telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
@@ -44,9 +44,9 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     
     - Add members to group: This will always first join your clients to the destined group before adding your scraped 
       users. In the adder folder you will find a config file to adjust at which added amount per client the program 
-      should wait and what the wait time should be. We need these waits else the members will look like their being 
-      added when they actually are not.
-
+      should wait, what the wait time should be and seperate add times. We need these waits else the members will look 
+      like their being added when they actually are not.
+      
     - Admin Promoter: This feature needs atleast one of your clients to be admin in the channel and your clients to 
       have usernames. You can use the "Username Changer" to guarantee this works. 
 
@@ -92,3 +92,4 @@ I'm open to any suggestions / feedback!
 
 For questions, you can always contact me on telegram: https://t.me/MrGrassss
 
+  
