@@ -1,4 +1,6 @@
-![Uploading Screenshot_1.png…]()
+![Screenshot_1](https://github.com/MrGrasss/TeleBlitz/assets/132838549/1d56d4a7-333d-42cf-941b-5796c044c0fd)
+
+
 
 Welcome to the best telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
