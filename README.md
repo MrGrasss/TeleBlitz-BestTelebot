@@ -1,4 +1,4 @@
-![[Logo](https://cdn.discordapp.com/attachments/901767857854103552/1109812671202730084/Screenshot_1.png)](https://cdn.discordapp.com/attachments/901767857854103552/1109812671202730084/Screenshot_1.png)
+![Uploading Screenshot_1.png…]()
 
 Welcome to the best telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
@@ -6,21 +6,22 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
 ## Features:
 
     # Login to your tokens in various ways (TDATA, sessions, manual and accounts.json)
-    # Proxy support
+    # Proxy support 
+    # Restart clients with new proxies when max limit is reached
     # Scrape members from chat messages
-    # Add members to group
-    # Group Joiner
+    # Add members to group/ channel
+    # Group Joiner (private chats supported)
     # Load sessions in from TDATA
     # Name Changer
     # Avatar Changer
     # MassDM 
-    # Mass Forwarder 
+    # Mass Forwarder (private chats supported)
     # Channel Leaver
     # Normal Scraper
-    # Group Advertiser
+    # Group Advertiser (private chats supported)
     # BIO Changer
     # Username changer 
-    # Admin Promoter
+    # Admin Promoter (private chats supported)
     # Client Checker (GUI)
     # Subscriber Scraper
     # Verification Scraper
@@ -44,9 +45,9 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     
     - Add members to group: This will always first join your clients to the destined group before adding your scraped 
       users. In the adder folder you will find a config file to adjust at which added amount per client the program 
-      should wait, what the wait time should be and seperate add times. We need these waits else the members will look 
-      like their being added when they actually are not.
-      
+      should wait and what the wait time should be. We need these waits else the members will look like their being 
+      added when they actually are not.
+
     - Admin Promoter: This feature needs atleast one of your clients to be admin in the channel and your clients to 
       have usernames. You can use the "Username Changer" to guarantee this works. 
 
@@ -92,4 +93,3 @@ I'm open to any suggestions / feedback!
 
 For questions, you can always contact me on telegram: https://t.me/MrGrassss
 
-  
