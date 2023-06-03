@@ -1,8 +1,6 @@
-![Screenshot_1](https://github.com/MrGrasss/TeleBlitz/assets/132838549/1d56d4a7-333d-42cf-941b-5796c044c0fd)
+![Screenshot_2](https://github.com/MrGrasss/TeleBlitz/assets/132838549/9f3fbfcf-f818-4510-98f9-efb21d9b0a43)
 
-
-
-Welcome to the best telegram bot on the market!
+Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
 
 ## Features:
@@ -25,12 +23,12 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     # Username changer 
     # Admin Promoter (private chats supported)
     # Client Checker (GUI)
-    # Subscriber Scraper
     # Verification Scraper
 
 ## Future:
  
-    # Remove clients from client checker gui
+    # Rework Client Checker GUI 
+    # Account Generator 
 
 ## Info
 
@@ -94,4 +92,3 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
 I'm open to any suggestions / feedback!
 
 For questions, you can always contact me on telegram: https://t.me/MrGrassss
-
