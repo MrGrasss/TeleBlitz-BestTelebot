@@ -83,10 +83,9 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
       work with the channel its @. Make sure that atleast one of your clients is in this channel through manually
       verifying if needed.
 
-    - Group Advertiser: For this feature you will find a config similar to the others, I recommend to put seconds between
-      forwards to around 30-60 to not encounter any floodwaits. If your trying to go faster you should use multiple accounts
-      so if one account gets flood for long enough the other can take over. Using a HQ account will drastically improve the
-      performance of this functionality.
+    - Group Advertiser: For this feature you will find a config similar to the others, I recommend to put clients seconds
+      between to around 45-60 to not encounter any floodwaits. Using multiple accounts will speed this process up x the
+      amount of clients which I do recommend if your using over 40 groups to advertise in. 
 
 ## Suggestions / Feedback
 
