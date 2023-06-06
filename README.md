@@ -1,4 +1,5 @@
-![Screenshot_2](https://github.com/MrGrasss/TeleBlitz/assets/132838549/9f3fbfcf-f818-4510-98f9-efb21d9b0a43)
+![Screenshot_1](https://github.com/MrGrasss/TeleBlitz/assets/132838549/feb25271-eaf4-496b-9368-bf1f0d16b94b)
+
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
@@ -40,7 +41,8 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
 
     - Proxies: The formats of the proxies are hostname:port@username:password or hostname:port:username:pass.
       I suggest using proxies for most functions except for scraping / changing info :)  Using 0 proxies on everything
-      should not be too bad, just make sure to use  multiple accounts if you do.
+      should not be too bad, just make sure to use  multiple accounts if you do. I recommend simply using iproyal better
+      proxy support will be provided in the future
 
     - Add members to group: This will always first join your clients to the destined group before adding your scraped
       users. In the adder folder you will find a config file to adjust at which added amount per client the program
