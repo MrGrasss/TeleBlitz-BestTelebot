@@ -1,5 +1,4 @@
-![Screenshot_2](https://github.com/MrGrasss/TeleBlitz/assets/132838549/d48c0d73-6d73-4a9b-bc68-5a53d55ba86b)
-
+![Screenshot_1](https://github.com/MrGrasss/TeleBlitz/assets/132838549/a57dc8d8-e7ce-42ec-a0b4-c9f10d7b7376)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
@@ -89,8 +88,13 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
       between to around 45-60 to not encounter any floodwaits. Using multiple accounts will speed this process up x the
       amount of clients which I do recommend if your using over 40 groups to advertise in. 
 
+    - Group Fetching in advertiser: groupadvertiser/groups.txt supports channelname, @channelname, 
+      https://t.me/joinchat/, https://t.me/ and http. (public groups only)
+    
+
 ## Suggestions / Feedback
 
 I'm open to any suggestions / feedback!
 
 For questions, you can always contact me on telegram: https://t.me/MrGrassss
+
