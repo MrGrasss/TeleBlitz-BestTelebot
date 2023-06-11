@@ -1,4 +1,4 @@
-![Screenshot_2](https://github.com/MrGrasss/TeleBlitz/assets/132838549/b24a4cd3-bf6a-4246-af5e-3dd74d8ef2d4)
+![image](https://github.com/MrGrasss/TeleBlitz/assets/132838549/4f033735-98ee-42cd-b70a-c55aeee6f0e6)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
@@ -28,6 +28,7 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
 ## Future:
 
     # Rework Client Checker GUI
+    # Flagged message auto change @
     # Account Generator
 
 ## Info
@@ -97,4 +98,5 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
 I'm open to any suggestions / feedback!
 
 For questions, you can always contact me on telegram: https://t.me/MrGrassss
+
 
