@@ -27,7 +27,6 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
 
 ## Future:
 
-    # Rework Client Checker GUI
     # Flagged message auto change @
     # Account Generator
 
@@ -78,8 +77,8 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
 
     - Bio Changer: Max length of a telegram bio is 70 characters, the same rules apply here.
 
-    - Client Checker: This just gets all data from your client and shows them in a GUI with a search function included.
-      This feature will be reworked to look better and have more functionality in the future, just did not bother yet.
+    - Client Checker: This just gets all data from your client and shows them in a GUI with a search function and remove
+      included.
 
     - Verification Scraper: This feature uses the title of the channel to scrape the members, this would normally not
       work with the channel its @. Make sure that atleast one of your clients is in this channel through manually
