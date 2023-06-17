@@ -40,9 +40,9 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
 
     - Proxies: The formats of the proxies are hostname:port@username:password or hostname:port:username:pass.
       I suggest using proxies for most functions except for scraping / changing info :)  Using 0 proxies on everything
-      should not be too bad, just make sure to use  multiple accounts if you do. I recommend simply using iproyal better
-      proxy support will be provided in the future
-
+      should not be too bad, just make sure to use  multiple accounts if you do. I recommend simply using iproyal SOCKS5, 
+      better proxy support will be provided in the future
+     
     - Add members to group: This will always first join your clients to the destined group before adding your scraped
       users. In the adder folder you will find a config file to adjust at which added amount per client the program
       should wait and what the wait time should be. We need these waits else the members will look like their being
@@ -98,6 +98,3 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
 I'm open to any suggestions / feedback!
 
 For questions, you can always contact me on telegram: https://t.me/MrGrassss
-
-
-
