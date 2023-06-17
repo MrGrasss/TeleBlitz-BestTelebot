@@ -43,7 +43,7 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
       better proxy support will be provided in the future
       
     - TDATA: Make sure to use actual bought tdata and put them in this format in tdata/ : {name}/{tdata}. This means that
-      you add the tdata in another folder which can be named anything and then add that folder in tdata/. Most sellers sell
+      You add the tdata in another folder which can be named anything and then add that folder in tdata/. Most sellers sell
       in this exact format so you should be good. 
       
     - Add members to group: This will always first join your clients to the destined group before adding your scraped
