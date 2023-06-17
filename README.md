@@ -1,4 +1,4 @@
-![image](https://github.com/MrGrasss/TeleBlitz/assets/132838549/4f033735-98ee-42cd-b70a-c55aeee6f0e6)
+![Screenshot_1](https://github.com/MrGrasss/TeleBlitz/assets/132838549/7f235e1c-26f0-4e6b-894c-f9fabc7b2ca6)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
@@ -24,6 +24,7 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     # Admin Promoter (private chats supported)
     # Client Checker (GUI)
     # Verification Scraper
+    # Custom Message Creator
 
 ## Future:
 
