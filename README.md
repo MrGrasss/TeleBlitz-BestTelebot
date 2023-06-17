@@ -27,7 +27,6 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
 
 ## Future:
 
-    # Flagged message auto change @
     # Account Generator
 
 ## Info
@@ -42,7 +41,11 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
       I suggest using proxies for most functions except for scraping / changing info :)  Using 0 proxies on everything
       should not be too bad, just make sure to use  multiple accounts if you do. I recommend simply using iproyal SOCKS5, 
       better proxy support will be provided in the future
-     
+      
+    - TDATA: Make sure to use actual bought tdata and put them in this format in tdata/ : {name}/{tdata}. This means that
+      you add the tdata in another folder which can be named anything and then add that folder in tdata/. Most sellers sell
+      in this exact format so you should be good. 
+      
     - Add members to group: This will always first join your clients to the destined group before adding your scraped
       users. In the adder folder you will find a config file to adjust at which added amount per client the program
       should wait and what the wait time should be. We need these waits else the members will look like their being
