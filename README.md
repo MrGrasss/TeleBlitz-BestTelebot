@@ -70,6 +70,7 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
 
     - Message Scraper: This function scrapes all messages in the channel and saves the users info of the sender of that
       message, this way you can also scrape channels that have their member list disabled aslong as chatting is allowed.
+      Using one client will be faster for this functionality.
 
     - accounts.json: This is just a way to manually login to your clients, just a bit faster than normal.
       If you find it annoying that it keeps asking if you want to use accounts.json you can simply remove the accounts
@@ -97,5 +98,6 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
 I'm open to any suggestions / feedback!
 
 For questions, you can always contact me on telegram: https://t.me/MrGrassss
+
 
 
