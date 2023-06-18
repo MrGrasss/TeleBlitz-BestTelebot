@@ -1,4 +1,4 @@
-![Screenshot_1](https://github.com/MrGrasss/TeleBlitz/assets/132838549/7f235e1c-26f0-4e6b-894c-f9fabc7b2ca6)
+![Screenshot_1](https://github.com/MrGrasss/TeleBlitz/assets/132838549/7cb8458f-bd55-4d1e-8fa4-934182809e77)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
@@ -25,10 +25,13 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     # Client Checker (GUI)
     # Verification Scraper
     # Custom Message Creator
+    # MassDM (Copy Message)
 
 ## Future:
 
     # Account Generator
+    # Premium emojis included in custom message creator
+    # Add private channel support for Add members to group/ channel
 
 ## Info
 
@@ -62,6 +65,9 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     - MassDM: The message.txt that is used for this tool is in HTML format, so if you want bold text for example you use
       <b>#text</b> and for an image you can just add an <a href=#Image link>.</a> to display this image and only add a
       dot or anything as text else it won't show up :)
+    
+    - MassDM (Copy): This is the same as the mass forwarded except instead of forwarding we copy the given message and 
+      send it as a dm instead of a forward instantly. 
 
     - Mass Forwarder: Like MassDM but uses a forwarded message instead. After 3 flags in a row the message that your
       using is 99% flagged so change it, flagged tokens can still be used in other functions and will be saved in
@@ -96,9 +102,9 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     - Group Fetching in advertiser: groupadvertiser/groups.txt supports channelname, @channelname, 
       https://t.me/joinchat/, https://t.me/ and http. (public groups only)
     
-
 ## Suggestions / Feedback
 
 I'm open to any suggestions / feedback!
 
 For questions, you can always contact me on telegram: https://t.me/MrGrassss
+
