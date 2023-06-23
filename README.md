@@ -1,4 +1,4 @@
-![Screenshot_1](https://github.com/MrGrasss/TeleBlitz/assets/132838549/7cb8458f-bd55-4d1e-8fa4-934182809e77)
+![Screenshot_1](https://github.com/MrGrasss/TeleBlitz/assets/132838549/cff5e7d8-0c78-42cc-a96c-f37530c6e3c5)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
@@ -9,9 +9,10 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     # Proxy support
     # Restart clients with new proxies when max limit is reached
     # Scrape members from chat messages
-    # Add members to group/ channel
+    # Add members to group/ channel (private groups supported)
     # Group Joiner (private chats supported)
     # Load sessions in from TDATA
+    # Load TDATA in from sessions
     # Name Changer
     # Avatar Changer
     # MassDM
@@ -31,7 +32,6 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
 
     # Account Generator
     # Premium emojis included in custom message creator
-    # Add private channel support for Add members to group/ channel
 
 ## Info
 
@@ -44,16 +44,16 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     - Proxies: The formats of the proxies are hostname:port@username:password or hostname:port:username:pass.
       I suggest using proxies for most functions except for scraping / changing info :)  Using 0 proxies on everything
       should not be too bad, just make sure to use  multiple accounts if you do. I recommend simply using iproyal SOCKS5, 
-      better proxy support will be provided in the future
+      better proxy support will be provided in the future.
       
     - TDATA: Make sure to use actual bought tdata and put them in this format in tdata/ : {name}/{tdata}. This means that
       You add the tdata in another folder which can be named anything and then add that folder in tdata/. Most sellers sell
       in this exact format so you should be good. 
       
-    - Add members to group: This will always first join your clients to the destined group before adding your scraped
-      users. In the adder folder you will find a config file to adjust at which added amount per client the program
-      should wait and what the wait time should be. We need these waits else the members will look like their being
-      added when they actually are not.
+    - Add members to group: This feature ensures that your clients are joined to the specified group before adding the 
+      scraped users. Within the 'adder' folder, you will find a configuration file where you can adjust the program's 
+      waiting time and the number of members to be added per client. While private groups are supported, channels are not 
+      yet supported.
 
     - Admin Promoter: This feature needs atleast one of your clients to be admin in the channel and your clients to
       have usernames. You can use the "Username Changer" to guarantee this works. You get to choose if the admin
@@ -101,10 +101,13 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
 
     - Group Fetching in advertiser: groupadvertiser/groups.txt supports channelname, @channelname, 
       https://t.me/joinchat/, https://t.me/ and http. (public groups only)
+
+    - Load TDATA in from sessions: This will convert your sessions to usable tdata so that you can login to your clients
+      via something like telegram portable
     
+
 ## Suggestions / Feedback
 
 I'm open to any suggestions / feedback!
 
 For questions, you can always contact me on telegram: https://t.me/MrGrassss
-
