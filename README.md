@@ -1,4 +1,4 @@
-![Screenshot_1](https://github.com/MrGrasss/TeleBlitz/assets/132838549/cff5e7d8-0c78-42cc-a96c-f37530c6e3c5)
+![Screenshot_2](https://github.com/MrGrasss/TeleBlitz/assets/132838549/89ac5924-f829-420d-ab19-a08038454983)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
@@ -11,6 +11,7 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     # Scrape members from chat messages
     # Add members to group/ channel (private groups supported)
     # Group Joiner (private chats supported)
+    # Multi Group Joiner
     # Load sessions in from TDATA
     # Load TDATA in from sessions
     # Name Changer
@@ -104,6 +105,8 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
 
     - Load TDATA in from sessions: This will convert your sessions to usable tdata so that you can login to your clients
       via something like telegram portable
+
+    - Multi Group Joiner: This uses the joiner in Group Advertiser without having to do all the other stuff. 
     
 
 ## Suggestions / Feedback
