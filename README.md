@@ -1,4 +1,4 @@
-![Screenshot_2](https://github.com/MrGrasss/TeleBlitz/assets/132838549/89ac5924-f829-420d-ab19-a08038454983)
+![Screenshot_1](https://github.com/MrGrasss/TeleBlitz/assets/132838549/7150f520-abb5-4a3c-ba0a-3babff7c618b)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
@@ -11,7 +11,6 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     # Scrape members from chat messages
     # Add members to group/ channel (private groups supported)
     # Group Joiner (private chats supported)
-    # Multi Group Joiner
     # Load sessions in from TDATA
     # Load TDATA in from sessions
     # Name Changer
@@ -70,9 +69,8 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     - MassDM (Copy): This is the same as the mass forwarded except instead of forwarding we copy the given message and 
       send it as a dm instead of a forward instantly. 
 
-    - Mass Forwarder: Like MassDM but uses a forwarded message instead. After 3 flags in a row the message that your
-      using is 99% flagged so change it, flagged tokens can still be used in other functions and will be saved in
-      massforwarder/flagged-clients folder
+    - Mass Forwarder: Like MassDM but uses a forwarded message instead. Flagged tokens can still be used in other 
+      functions and will be saved in massforwarder/flagged-clients folder
 
     - Messages: In forwarding and mass messaging your message could get flagged if enough users report this message.
       If you start to see "[ERROR] {phone} got flagged." prompt when trying to send this message it 99% means that this
@@ -104,10 +102,10 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
       https://t.me/joinchat/, https://t.me/ and http. (public groups only)
 
     - Load TDATA in from sessions: This will convert your sessions to usable tdata so that you can login to your clients
-      via something like telegram portable
-
-    - Multi Group Joiner: This uses the joiner in Group Advertiser without having to do all the other stuff. 
+      via something like telegram portable.
     
+    - +users_info.json: This will contain the succesfully messages users_info so that you could reuse that list in the 
+      future.
 
 ## Suggestions / Feedback
 
