@@ -104,7 +104,7 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     - Load TDATA in from sessions: This will convert your sessions to usable tdata so that you can login to your clients
       via something like telegram portable.
     
-    - +users_info.json: This will contain the succesfully messages users_info so that you could reuse that list in the 
+    - +users_info.json: This will contain the succesfully messaged users_info so that you could reuse that list in the 
       future.
 
 ## Suggestions / Feedback
