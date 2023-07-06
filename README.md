@@ -11,6 +11,7 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     # Scrape members from chat messages
     # Add members to group/ channel (private groups supported)
     # Group Joiner (private chats supported)
+    # Multi Group Joiner (private chats supported)
     # Load sessions in from TDATA
     # Load TDATA in from sessions
     # Name Changer
@@ -40,6 +41,9 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
 
     - Important: If your going to use this tool for any other activity then scraping make sure to select "Y" to scrape
       all users info because you will be needing their usernames.
+    
+    - Scrapers: Scraped users will always be added ontop of each other in user_info.json and user_ids.txt excluding 
+      duplicates.
 
     - Proxies: The formats of the proxies are hostname:port@username:password or hostname:port:username:pass.
       I suggest using proxies for most functions except for scraping / changing info :)  Using 0 proxies on everything
@@ -104,7 +108,7 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     - Load TDATA in from sessions: This will convert your sessions to usable tdata so that you can login to your clients
       via something like telegram portable.
     
-    - +users_info.json: This will contain the succesfully messaged users_info so that you could reuse that list in the 
+    - +users_info.json: This will contain the succesfully messages users_info so that you could reuse that list in the 
       future.
 
 ## Suggestions / Feedback
@@ -112,3 +116,4 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
 I'm open to any suggestions / feedback!
 
 For questions, you can always contact me on telegram: https://t.me/MrGrassss
+
