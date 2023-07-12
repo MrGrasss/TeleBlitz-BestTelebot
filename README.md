@@ -1,4 +1,4 @@
-![Screenshot_1](https://github.com/MrGrasss/TeleBlitz/assets/132838549/7150f520-abb5-4a3c-ba0a-3babff7c618b)
+![Screenshot_1](https://github.com/MrGrasss/TeleBlitz/assets/132838549/ddfd57ee-016d-499c-a749-a0815ad6ff6d)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
@@ -28,6 +28,7 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     # Verification Scraper
     # Custom Message Creator
     # MassDM (Copy Message)
+    # Member Banner
 
 ## Future:
 
@@ -46,9 +47,9 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
       duplicates.
 
     - Proxies: The formats of the proxies are hostname:port@username:password or hostname:port:username:pass.
-      I suggest using proxies for most functions except for scraping / changing info :)  Using 0 proxies on everything
-      should not be too bad, just make sure to use  multiple accounts if you do. I recommend simply using iproyal SOCKS5, 
-      better proxy support will be provided in the future.
+      Don't use proxies for scraping or changing client info! Using 0 proxies on everything won't matter that much, 
+      just make sure to use  multiple accounts if you do. I recommend simply using iproyal SOCKS5, better proxy
+      support will be provided in the future.
       
     - TDATA: Make sure to use actual bought tdata and put them in this format in tdata/ : {name}/{tdata}. This means that
       You add the tdata in another folder which can be named anything and then add that folder in tdata/. Most sellers sell
@@ -70,11 +71,12 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
       <b>#text</b> and for an image you can just add an <a href=#Image link>.</a> to display this image and only add a
       dot or anything as text else it won't show up :)
     
-    - MassDM (Copy): This is the same as the mass forwarded except instead of forwarding we copy the given message and 
-      send it as a dm instead of a forward instantly. 
+    - MassDM (Copy): This is the same as the mass forwarder except instead of forwarding we copy the given message and 
+      send it as a dm instead of a forward instantly. There is an option to randomly edit your message on a flag.  
 
     - Mass Forwarder: Like MassDM but uses a forwarded message instead. Flagged tokens can still be used in other 
-      functions and will be saved in massforwarder/flagged-clients folder
+      functions and will be saved in massforwarder/flagged-clients folder. There is an option to randomly edit your 
+      message on a flag. 
 
     - Messages: In forwarding and mass messaging your message could get flagged if enough users report this message.
       If you start to see "[ERROR] {phone} got flagged." prompt when trying to send this message it 99% means that this
@@ -111,9 +113,14 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     - +users_info.json: This will contain the succesfully messages users_info so that you could reuse that list in the 
       future.
 
+    - Change message randomly: In MassDM(copy) and Massforwarder you will find an option to change message every now 
+      and then (only appears when using a channel), this adds random characters in between words while keeping emojis, 
+      links and markdown characters intact. For this you will need one client that has admin permissions with atleast 
+      "Edit Messages of Others" turned on.
+       
+
 ## Suggestions / Feedback
 
 I'm open to any suggestions / feedback!
 
 For questions, you can always contact me on telegram: https://t.me/MrGrassss
-
