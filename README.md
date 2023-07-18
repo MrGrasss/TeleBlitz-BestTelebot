@@ -1,4 +1,4 @@
-![Screenshot_1](https://github.com/MrGrasss/TeleBlitz/assets/132838549/ddfd57ee-016d-499c-a749-a0815ad6ff6d)
+![Screenshot_1](https://github.com/MrGrasss/TeleBlitz/assets/132838549/a853891a-e4b6-4327-8bbf-8463091f18b7)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
@@ -29,11 +29,13 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     # Custom Message Creator
     # MassDM (Copy Message)
     # Member Banner
+    # Mass reporter (Groups / Channels)
 
 ## Future:
 
     # Account Generator
     # Premium emojis included in custom message creator
+    # Group Creator
 
 ## Info
 
@@ -116,7 +118,8 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     - Change message randomly: In MassDM(copy) and Massforwarder you will find an option to change message every now 
       and then (only appears when using a channel), this adds random characters in between words while keeping emojis, 
       links and markdown characters intact. For this you will need one client that has admin permissions with atleast 
-      "Edit Messages of Others" turned on.
+      "Edit Messages of Others" turned on. There is also an option called "changed_message_ratio" which is a percentage
+      of how often a random character will be added, the higher the more characters.
        
 
 ## Suggestions / Feedback
