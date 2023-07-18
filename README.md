@@ -1,4 +1,5 @@
-![Screenshot_1](https://github.com/MrGrasss/TeleBlitz/assets/132838549/a853891a-e4b6-4327-8bbf-8463091f18b7)
+![Screenshot_1](https://github.com/MrGrasss/TeleBlitz/assets/132838549/23205123-9c8d-43d4-a8d4-f5d14969e02b)
+
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
