@@ -47,16 +47,14 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
       all users info because you will be needing their usernames.
     
     - Scrapers: Scraped users will always be added ontop of each other in user_info.json and user_ids.txt excluding 
-      duplicates.
+      duplicates. Using one client is the best for this.
 
     - Proxies: The formats of the proxies are hostname:port@username:password or hostname:port:username:pass.
       Don't use proxies for scraping or changing client info! Using 0 proxies on everything won't matter that much, 
       just make sure to use  multiple accounts if you do. I recommend simply using iproyal SOCKS5, better proxy
       support will be provided in the future.
       
-    - TDATA: Make sure to use actual bought tdata and put them in this format in tdata/ : {name}/{tdata}. This means that
-      You add the tdata in another folder which can be named anything and then add that folder in tdata/. Most sellers sell
-      in this exact format so you should be good. 
+    - TDATA: Formats: {name}/tdata/(actual_data), {name}/(actual_data). For best results use bought TDATA. 
       
     - Add members to group: This feature ensures that your clients are joined to the specified group before adding the 
       scraped users. Within the 'adder' folder, you will find a configuration file where you can adjust the program's 
@@ -88,7 +86,6 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
 
     - Message Scraper: This function scrapes all messages in the channel and saves the users info of the sender of that
       message, this way you can also scrape channels that have their member list disabled aslong as chatting is allowed.
-      Using one client will be faster for this functionality.
 
     - accounts.json: This is just a way to manually login to your clients, just a bit faster than normal.
       If you find it annoying that it keeps asking if you want to use accounts.json you can simply remove the accounts
@@ -120,7 +117,8 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
       and then (only appears when using a channel), this adds random characters in between words while keeping emojis, 
       links and markdown characters intact. For this you will need one client that has admin permissions with atleast 
       "Edit Messages of Others" turned on. There is also an option called "changed_message_ratio" which is a percentage
-      of how often a random character will be added, the higher the more characters.
+      of how often a random character will be added, the higher the more characters. "change_group_url" will change the
+      messageId behind a telegram group link to prevent flags, so have your actual promo message in that group. 
        
 
 ## Suggestions / Feedback
