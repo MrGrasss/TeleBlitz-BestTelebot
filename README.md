@@ -1,6 +1,4 @@
-![Screenshot_1](https://github.com/MrGrasss/TeleBlitz/assets/132838549/23205123-9c8d-43d4-a8d4-f5d14969e02b)
-
-
+![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/5e4eb54f-219c-4e6a-9bc7-95663eb476cb)
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
 
@@ -34,7 +32,6 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
 
 ## Future:
 
-    # Account Generator
     # Premium emojis included in custom message creator
     # Group Creator
 
@@ -47,14 +44,14 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
       all users info because you will be needing their usernames.
     
     - Scrapers: Scraped users will always be added ontop of each other in user_info.json and user_ids.txt excluding 
-      duplicates. Using one client is the best for this.
+      duplicates. 
 
     - Proxies: The formats of the proxies are hostname:port@username:password or hostname:port:username:pass.
-      Don't use proxies for scraping or changing client info! Using 0 proxies on everything won't matter that much, 
-      just make sure to use  multiple accounts if you do. I recommend simply using iproyal SOCKS5, better proxy
-      support will be provided in the future.
+      Don't use proxies for scraping or changing client info! For Iproyal only SOCKS5 is supported in the hostname:port@
+      username:password format. Proxies do not seem to effect telegram at all, hence why I have not expended on it. 
       
-    - TDATA: Formats: {name}/tdata/(actual_data), {name}/(actual_data). For best results use bought TDATA. 
+    - TDATA: Formats: {name}/tdata/(actual_data), {name}/(actual_data). For best results use bought TDATA. TDATA with 
+      multiple accounts logged in are not supported YET. 
       
     - Add members to group: This feature ensures that your clients are joined to the specified group before adding the 
       scraped users. Within the 'adder' folder, you will find a configuration file where you can adjust the program's 
@@ -73,19 +70,11 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
       dot or anything as text else it won't show up :)
     
     - MassDM (Copy): This is the same as the mass forwarder except instead of forwarding we copy the given message and 
-      send it as a dm instead of a forward instantly. There is an option to randomly edit your message on a flag.  
-
-    - Mass Forwarder: Like MassDM but uses a forwarded message instead. Flagged tokens can still be used in other 
-      functions and will be saved in massforwarder/flagged-clients folder. There is an option to randomly edit your 
-      message on a flag. 
-
-    - Messages: In forwarding and mass messaging your message could get flagged if enough users report this message.
-      If you start to see "[ERROR] {phone} got flagged." prompt when trying to send this message it 99% means that this
-      message is flagged and that you should change it ASAP! (The bot stops when it detects this behaviour and prompts
-      the user)
+      send it as a dm. There is an option to randomly edit your message on flags, see 'Change message randomly' below.
 
     - Message Scraper: This function scrapes all messages in the channel and saves the users info of the sender of that
       message, this way you can also scrape channels that have their member list disabled aslong as chatting is allowed.
+      Using multiple clients for this would speed it up. 
 
     - accounts.json: This is just a way to manually login to your clients, just a bit faster than normal.
       If you find it annoying that it keeps asking if you want to use accounts.json you can simply remove the accounts
@@ -100,10 +89,12 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
       work with the channel its @. Make sure that atleast one of your clients is in this channel through manually
       verifying if needed.
 
-    - Group Advertiser: For this feature you will find a config similar to the others, I recommend to put clients seconds
-      between to around 45-60 to not encounter any floodwaits. Using multiple accounts will speed this process up x the
-      amount of clients which I do recommend if your using over 40 groups to advertise in. 
-
+    - Group Advertiser: For this feature you will find a full config that you can change to your needs.I recommend to 
+      first use 'full_fetch: true' with multiple clients to clean your channels in groups.txt and turn it off after the
+      cleaning process. Clients seconds between depends on the quality of your sessions (experiment at your own risk).
+      Using multiple accounts will speed this process up x the amount of clients which I do recommend if your using over    
+      40 groups to advertise in.
+      
     - Group Fetching in advertiser: groupadvertiser/groups.txt supports channelname, @channelname, 
       https://t.me/joinchat/, https://t.me/ and http. (public groups only)
 
@@ -113,13 +104,13 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     - +users_info.json: This will contain the succesfully messages users_info so that you could reuse that list in the 
       future.
 
-    - Change message randomly: In MassDM(copy) and Massforwarder you will find an option to change message every now 
-      and then (only appears when using a channel), this adds random characters in between words while keeping emojis, 
-      links and markdown characters intact. For this you will need one client that has admin permissions with atleast 
+    - Change message randomly: In MassDM(copy) and Massforwarder you will find an option to change message on flags
+      (only appears when using a channel), this adds random characters in between words while keeping emojis, links 
+      and markdown characters intact. For this you will need one client that has admin permissions with atleast 
       "Edit Messages of Others" turned on. There is also an option called "changed_message_ratio" which is a percentage
       of how often a random character will be added, the higher the more characters. "change_group_url" will change the
-      messageId behind a telegram group link to prevent flags, so have your actual promo message in that group. 
-       
+      messageId behind a telegram group link to prevent flags, this is recommended to be used with having your actual 
+      promo message in that telegram group that you have used the link of.
 
 ## Suggestions / Feedback
 
