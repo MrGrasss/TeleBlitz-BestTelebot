@@ -1,4 +1,5 @@
-![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/5e4eb54f-219c-4e6a-9bc7-95663eb476cb)
+![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/c5ae10ac-1b3e-4e8b-b9bb-74d7149851d6)
+
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
 
@@ -55,8 +56,7 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
       
     - Add members to group: This feature ensures that your clients are joined to the specified group before adding the 
       scraped users. Within the 'adder' folder, you will find a configuration file where you can adjust the program's 
-      waiting time and the number of members to be added per client. While private groups are supported, channels are not 
-      yet supported.
+      waiting time and the number of members to be added per client. Private groups are supported.
 
     - Admin Promoter: This feature needs atleast one of your clients to be admin in the channel and your clients to
       have usernames. You can use the "Username Changer" to guarantee this works. You get to choose if the admin
