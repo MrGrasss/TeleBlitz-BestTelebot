@@ -2,6 +2,7 @@
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
+I also sell my own telegram account generator if your in need of cheap private accounts. 
 
 ## Features:
 
@@ -16,7 +17,6 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     # Load TDATA in from sessions
     # Name Changer
     # Avatar Changer
-    # MassDM
     # Mass Forwarder (private chats supported)
     # Channel Leaver
     # Normal Scraper
@@ -56,7 +56,19 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
       
     - Add members to group: This feature ensures that your clients are joined to the specified group before adding the 
       scraped users. Within the 'adder' folder, you will find a configuration file where you can adjust the program's 
-      waiting time and the number of members to be added per client. Private groups are supported.
+      waiting time and the number of members to be added per client. While private groups are supported, channels are not 
+      yet supported.
+    
+    - MassDM (Copy): This is the same as the mass forwarder except instead of forwarding we copy the given message and 
+      send it as a dm. There is an option to randomly edit your message on flags, see 'Change message randomly' below.
+
+    - Prevent MASSDM flags: In MassDM(copy) and Massforwarder you will find an option to change message on flags
+      (only appears when using a channel), this adds random characters in between words while keeping emojis, links 
+      and markdown characters intact. For this you will need one client that has admin permissions with atleast 
+      "Edit Messages of Others" turned on. There is also an option called "changed_message_ratio" which is a percentage
+      of how often a random character will be added, the higher the more characters. "change_group_url" will change the
+      messageId behind a telegram group link to prevent flags, this is recommended to be used with having your actual 
+      promo message in that telegram group that you have used the link of.
 
     - Admin Promoter: This feature needs atleast one of your clients to be admin in the channel and your clients to
       have usernames. You can use the "Username Changer" to guarantee this works. You get to choose if the admin
@@ -64,13 +76,6 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
 
     - Normal Scraper: This only works when a channel has their member list on public and only requires one client.
       (scrapes almost instantly)
-
-    - MassDM: The message.txt that is used for this tool is in HTML format, so if you want bold text for example you use
-      <b>#text</b> and for an image you can just add an <a href=#Image link>.</a> to display this image and only add a
-      dot or anything as text else it won't show up :)
-    
-    - MassDM (Copy): This is the same as the mass forwarder except instead of forwarding we copy the given message and 
-      send it as a dm. There is an option to randomly edit your message on flags, see 'Change message randomly' below.
 
     - Message Scraper: This function scrapes all messages in the channel and saves the users info of the sender of that
       message, this way you can also scrape channels that have their member list disabled aslong as chatting is allowed.
@@ -103,14 +108,6 @@ This is a licensed tool and can be purchased by contacting https://t.me/MrGrasss
     
     - +users_info.json: This will contain the succesfully messages users_info so that you could reuse that list in the 
       future.
-
-    - Change message randomly: In MassDM(copy) and Massforwarder you will find an option to change message on flags
-      (only appears when using a channel), this adds random characters in between words while keeping emojis, links 
-      and markdown characters intact. For this you will need one client that has admin permissions with atleast 
-      "Edit Messages of Others" turned on. There is also an option called "changed_message_ratio" which is a percentage
-      of how often a random character will be added, the higher the more characters. "change_group_url" will change the
-      messageId behind a telegram group link to prevent flags, this is recommended to be used with having your actual 
-      promo message in that telegram group that you have used the link of.
 
 ## Suggestions / Feedback
 
