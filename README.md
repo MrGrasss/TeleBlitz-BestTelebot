@@ -1,8 +1,8 @@
-![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/c5ae10ac-1b3e-4e8b-b9bb-74d7149851d6)
+![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/5067c9cd-4aba-4eec-bb19-72c35fecc997)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
-I also sell my own telegram account generator if your in need of cheap private accounts. 
+I also sell my own telegram account generator if your in need of cheap private accounts.
 
 ## Features:
 
@@ -29,7 +29,8 @@ I also sell my own telegram account generator if your in need of cheap private a
     # Custom Message Creator
     # MassDM (Copy Message)
     # Member Banner
-    # Mass reporter (Groups / Channels)
+    # Mass Reporter (Groups / Channels)
+    # Forum Advertiser
 
 ## Future:
 
@@ -56,8 +57,9 @@ I also sell my own telegram account generator if your in need of cheap private a
       
     - Add members to group: This feature ensures that your clients are joined to the specified group before adding the 
       scraped users. Within the 'adder' folder, you will find a configuration file where you can adjust the program's 
-      waiting time and the number of members to be added per client. While private groups are supported, channels are not 
-      yet supported.
+      waiting time and the number of members to be added per client. There is also an option 'additional_joined_check'
+      that only counts adds after checking if their actually in (this might cause more privacy errors) While private 
+      groups are supported, channels are not. Make sure that the clients are admin in the group.
     
     - MassDM (Copy): This is the same as the mass forwarder except instead of forwarding we copy the given message and 
       send it as a dm. There is an option to randomly edit your message on flags, see 'Change message randomly' below.
@@ -99,9 +101,16 @@ I also sell my own telegram account generator if your in need of cheap private a
       cleaning process. Clients seconds between depends on the quality of your sessions (experiment at your own risk).
       Using multiple accounts will speed this process up x the amount of clients which I do recommend if your using over    
       40 groups to advertise in.
+
+    - Forum Advertiser: This feature is essentially the same as the Group Advertiser but uses forumgroups.txt found
+      in the groupadvertiser folder instead. The groups should have this format: https://t.me/forumtester/2 or 
+      t.me/forumtester/2. It uses the same config found in the groupadvertiser folder except "seconds_between_fetch" and
+      "full_fetch" don't do anything here. Please know that slow mode counts for the entire group and not just for 1 
+      topic, meaning if you try to use 1 client for multiple topics and the first topic will have slow the others will 
+      always be skipped. 
       
     - Group Fetching in advertiser: groupadvertiser/groups.txt supports channelname, @channelname, 
-      https://t.me/joinchat/, https://t.me/ and http. (public groups only)
+      https://t.me/joinchat/, https://t.me/, http and t.me/. (public groups only)
 
     - Load TDATA in from sessions: This will convert your sessions to usable tdata so that you can login to your clients
       via something like telegram portable.
