@@ -1,6 +1,6 @@
-![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/678f693d-0f13-428e-924e-a392244636e6)]
+![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/541bcd6c-765a-4bb3-979e-7a80a5f801fe)
 
-Welcome to the only allround telegram bot on the market!
+elcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
 I also sell my own telegram account generator if your in need of cheap private accounts.
 
@@ -33,11 +33,11 @@ I also sell my own telegram account generator if your in need of cheap private a
     # Forum Advertiser
     # Group-List Joiner
     # Group-List Leaver
+    # Group-List Creator 
 
 ## Future:
 
     # Premium emojis included in custom message creator
-    # Group List Creator 
 
 ## Info
 
@@ -104,7 +104,7 @@ I also sell my own telegram account generator if your in need of cheap private a
       Using multiple accounts will speed this process up x the amount of clients which I do recommend if your using over    
       40 groups to advertise in.
 
-    - Forum Advertiser: This feature is essentially the same as the Group Advertiser but uses 'forumgroups.txt' found
+    - Forum Advertiser: This feature is essentially the same as the Group Advertiser but uses forumgroups.txt found
       in the groupadvertiser folder instead. The groups should have this format: https://t.me/forumtester/2 or 
       t.me/forumtester/2. It uses the same config found in the groupadvertiser folder except "seconds_between_fetch" and
       "full_fetch" don't do anything here. Please know that slow mode counts for the entire group and not just for 1 
@@ -112,10 +112,14 @@ I also sell my own telegram account generator if your in need of cheap private a
       always be skipped. 
     
     - Group-List Joiner: This uses 'https://t.me/addlist/6wxnTZgrHSU2ZmM6' to add up to 100 groups at once and join them
-      instantly with no limitations. These links need to be put in 'groupadvertiser/grouplist.txt' in the format I 
+      instantly with no limitations. These links need to be put in 'groupadvertiser/forumgroups.txt' in the format I 
       showed above or the last part of the link so in this case '6wxnTZgrHSU2ZmM6'. Joined groups get exported into
       'exported_groupslist.txt' to be used in groups.txt for the normal advertiser.  (Groups should have usernames)
-      
+    
+    - Group-List Creator: This uses the groups.txt in groupadvertiser and automatically uses the fullfetcher to create
+      Folders of max 100 chats per folder. Full fetch does not have to be turned on BUT all clients have to be in all
+      channels in 'groups.txt'to make this go smoothly. 'seconds_between_fetch' applies here too if full fetch is on.
+
     - Group Fetching in advertiser: groupadvertiser/groups.txt supports channelname, @channelname, 
       https://t.me/joinchat/, https://t.me/, http and t.me/. (public groups only)
 
