@@ -42,10 +42,10 @@ I also sell my own telegram account generator if your in need of cheap private a
 # Extra functionality Info
 ## Login & Setup
     - Note: In every functionality there will be prompts that will ask you if you have already done something needed for
-        it to work. This means that you don't necessarily need to use one function first before using the other.
+    it to work. This means that you don't necessarily need to use one function first before using the other.
 
     - Important: If your going to use this tool for any other activity then scraping make sure to select "Y" to scrape
-      all users info because you will be needing their usernames.
+    all users info because you will be needing their usernames.
     
     - TDATA: Formats: {name}/tdata/(actual_data), {name}/(actual_data). For best results use bought TDATA. TDATA with 
     multiple accounts logged in are not supported YET. 
