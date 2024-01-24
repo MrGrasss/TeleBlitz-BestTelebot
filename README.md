@@ -73,7 +73,7 @@ I also sell my own telegram account generator if your in need of cheap private a
 ## Scrapers
 
     - Scrapers: Scraped users will always be added ontop of each other in user_info.json and user_ids.txt excluding 
-    duplicates. 
+    duplicates. Also it's possible to stop scraping by pressing your enter key and save your progress.
 
     - Normal Scraper: This only works when a channel has their member list on public and only requires one client.
     (scrapes almost instantly)
