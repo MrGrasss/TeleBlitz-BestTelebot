@@ -1,4 +1,4 @@
-![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/541bcd6c-765a-4bb3-979e-7a80a5f801fe)
+![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/e41d0085-9f32-4d47-b4fa-210394c9c94a)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
@@ -29,7 +29,7 @@ I also sell my own telegram account generator if your in need of cheap private a
     # Custom Message Creator
     # MassDM (Copy Message)
     # Member Banner
-    # Mass Reporter (Groups / Channels)
+    # Mass Reporter (Groups / Channels / Users)
     # Forum Advertiser
     # Group-List Joiner
     # Group-List Leaver
