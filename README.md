@@ -142,7 +142,3 @@ I'm open to any suggestions / feedback!
 
 For questions, you can always contact me on telegram: https://t.me/MrGrassss
 
-I'm open to any suggestions / feedback!
-
-For questions, you can always contact me on telegram: https://t.me/MrGrassss
-
