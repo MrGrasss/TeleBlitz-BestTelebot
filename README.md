@@ -1,7 +1,7 @@
 ![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/e41d0085-9f32-4d47-b4fa-210394c9c94a)
 
 Welcome to the only allround telegram bot on the market!
-This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss (Free trial is possible).
+This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss.
 I also sell my own telegram account generator if your in need of cheap private accounts.
 
 ## Features:
@@ -42,10 +42,10 @@ I also sell my own telegram account generator if your in need of cheap private a
 # Extra functionality Info
 ## Login & Setup
     - Note: In every functionality there will be prompts that will ask you if you have already done something needed for
-    it to work. This means that you don't necessarily need to use one function first before using the other.
+        it to work. This means that you don't necessarily need to use one function first before using the other.
 
     - Important: If your going to use this tool for any other activity then scraping make sure to select "Y" to scrape
-    all users info because you will be needing their usernames.
+      all users info because you will be needing their usernames.
     
     - TDATA: Formats: {name}/tdata/(actual_data), {name}/(actual_data). For best results use bought TDATA. TDATA with 
     multiple accounts logged in are not supported YET. 
@@ -64,7 +64,7 @@ I also sell my own telegram account generator if your in need of cheap private a
     - +users_info.json: This will contain the succesfully messages users_info so that you could reuse that list in the 
     future.
   
-## Account Funtionalities
+## Account Functionalities
     - Bio Changer: Max length of a telegram bio is 70 characters, the same rules apply here.
     
     - Client Checker: This just gets all data from your client and shows them in a GUI with a search function and remove
@@ -137,6 +137,10 @@ I also sell my own telegram account generator if your in need of cheap private a
       promo message in that telegram group that you have used the link of.
 		  
 ## Suggestions / Feedback
+
+I'm open to any suggestions / feedback!
+
+For questions, you can always contact me on telegram: https://t.me/MrGrassss
 
 I'm open to any suggestions / feedback!
 
