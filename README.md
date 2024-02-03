@@ -1,4 +1,4 @@
-![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/e41d0085-9f32-4d47-b4fa-210394c9c94a)
+![Screenshot_2](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/820f5ac0-d164-48fb-9d39-e2d0f548a5ac)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss.
@@ -34,6 +34,7 @@ I also sell my own telegram account generator if your in need of cheap private a
     # Group-List Joiner
     # Group-List Leaver
     # Group-List Creator 
+    # Message Views
 
 ## Future:
 
@@ -135,10 +136,13 @@ I also sell my own telegram account generator if your in need of cheap private a
       of how often a random character will be added, the higher the more characters. "change_group_url" will change the
       messageId behind a telegram group link to prevent flags, this is recommended to be used with having your actual 
       promo message in that telegram group that you have used the link of.
+    
+    - Message Views: Adds views to any post in any public channel. You can either scrape "Free" proxies from the web or
+      use your own HTTP/HTTPS rotating proxies. 
+      
 		  
 ## Suggestions / Feedback
 
 I'm open to any suggestions / feedback!
 
 For questions, you can always contact me on telegram: https://t.me/MrGrassss
-
