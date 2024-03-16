@@ -1,4 +1,4 @@
-![Screenshot_2](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/820f5ac0-d164-48fb-9d39-e2d0f548a5ac)
+![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/54aa1a68-e78f-4d20-a7d8-0b7af1245ab0)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss.
@@ -35,6 +35,7 @@ I also sell my own telegram account generator if your in need of cheap private a
     # Group-List Leaver
     # Group-List Creator 
     # Message Views
+    # Copy New Messages
 
 ## Future:
 
@@ -139,6 +140,10 @@ I also sell my own telegram account generator if your in need of cheap private a
     
     - Message Views: Adds views to any post in any public channel. You can either scrape "Free" proxies from the web or
       use your own HTTP/HTTPS rotating proxies. 
+    
+    - Copy New Messages: Copy new messages from specified group/channel to your own group/channel. Can be used with 
+      multiple clients but I see no reason why this would be used with multiple since they will be sending the same msg
+      at the same time.
       
 		  
 ## Suggestions / Feedback
@@ -146,3 +151,4 @@ I also sell my own telegram account generator if your in need of cheap private a
 I'm open to any suggestions / feedback!
 
 For questions, you can always contact me on telegram: https://t.me/MrGrassss
+
