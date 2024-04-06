@@ -1,4 +1,4 @@
-![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/54aa1a68-e78f-4d20-a7d8-0b7af1245ab0)
+![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/6c21ace4-1c01-41c2-a265-bed0da323d35)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss.
@@ -36,6 +36,7 @@ I also sell my own telegram account generator if your in need of cheap private a
     # Group-List Creator 
     # Message Views
     # Copy New Messages
+    # Shiller
 
 ## Future:
 
@@ -144,6 +145,10 @@ I also sell my own telegram account generator if your in need of cheap private a
     - Copy New Messages: Copy new messages from specified group/channel to your own group/channel. Can be used with 
       multiple clients but I see no reason why this would be used with multiple since they will be sending the same msg
       at the same time.
+
+     - Shiller: Send messages with multiple clients to your group or channels, config thats in groupadvertiser/config
+       is used for this aswell but only the join and fetch part. For the message part use shiller.json found in
+       groupadvertiser folder aswell. You can stop messaging by pressing enter and having the window focussed.
       
 		  
 ## Suggestions / Feedback
