@@ -1,4 +1,4 @@
-![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/6c21ace4-1c01-41c2-a265-bed0da323d35)
+![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/d2c7b0c7-99dd-4f27-96f3-4751db1ac1a3)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss.
@@ -48,7 +48,7 @@ I also sell my own telegram account generator if your in need of cheap private a
         it to work. This means that you don't necessarily need to use one function first before using the other.
 
     - Important: If your going to use this tool for any other activity then scraping make sure to select "Y" to scrape
-      all users info because you will be needing their usernames.
+      all users info because you will be needing their usernames or access_hash.
     
     - TDATA: Formats: {name}/tdata/(actual_data), {name}/(actual_data). For best results use bought TDATA. TDATA with 
     multiple accounts logged in are not supported YET. 
@@ -156,4 +156,3 @@ I also sell my own telegram account generator if your in need of cheap private a
 I'm open to any suggestions / feedback!
 
 For questions, you can always contact me on telegram: https://t.me/MrGrassss
-
