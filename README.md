@@ -1,4 +1,4 @@
-![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/d2c7b0c7-99dd-4f27-96f3-4751db1ac1a3)
+![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/caca70f2-d02c-4960-ba7c-84ba61073c71)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss.
@@ -6,7 +6,7 @@ I also sell my own telegram account generator if your in need of cheap private a
 
 ## Features:
 
-    # Login to your tokens in various ways (TDATA, sessions, manual and accounts.json)
+    # Login to your tokens in various ways (TDATA, sessions, manual and accounts.txt)
     # Proxy support
     # Restart clients with new proxies when max limit is reached
     # Scrape members from chat messages
@@ -56,8 +56,8 @@ I also sell my own telegram account generator if your in need of cheap private a
     - Load TDATA in from sessions: This will convert your sessions to usable tdata so that you can login to your clients
     via something like telegram portable.
     
-    - accounts.json: This is just a way to manually login to your clients, just a bit faster than normal.
-    If you find it annoying that it keeps asking if you want to use accounts.json you can simply remove the accounts
+    - accounts.txt: This allows manual login using phone number per 1 line in the txt. MUST HAVE COUNTRY CODE.
+    If you find it annoying that it keeps asking if you want to use accounts.txt you can simply remove the accounts
     from the list and use sessions / tdata instead. This way it won't prompt you anymore :)
     
     - Proxies: The formats of the proxies are hostname:port@username:password or hostname:port:username:pass.
@@ -156,3 +156,4 @@ I also sell my own telegram account generator if your in need of cheap private a
 I'm open to any suggestions / feedback!
 
 For questions, you can always contact me on telegram: https://t.me/MrGrassss
+
