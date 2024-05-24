@@ -157,9 +157,3 @@ I also sell my own telegram account generator if your in need of cheap private a
 I'm open to any suggestions / feedback!
 
 For questions, you can always contact me on telegram: https://t.me/MrGrassss
-
-
-I'm open to any suggestions / feedback!
-
-For questions, you can always contact me on telegram: https://t.me/MrGrassss
-
