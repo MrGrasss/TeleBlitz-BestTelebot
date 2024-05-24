@@ -40,7 +40,7 @@ I also sell my own telegram account generator if your in need of cheap private a
 
 ## Future:
 
-    # Premium emojis included in custom message creator
+    # Increasing performance of every feature due to telegram changes
 
 # Extra functionality Info
 ## Login & Setup
@@ -60,7 +60,7 @@ I also sell my own telegram account generator if your in need of cheap private a
     If you find it annoying that it keeps asking if you want to use accounts.txt you can simply remove the accounts
     from the list and use sessions / tdata instead. This way it won't prompt you anymore :)
     
-    - Proxies: The formats of the proxies are hostname:port@username:password or hostname:port:username:pass.
+    - Proxies: The formats of the proxies are hostname:port@username:password (socks5) or hostname:port:username:pass (http).
     Don't use proxies for scraping or changing client info! For Iproyal only SOCKS5 is supported in the hostname:port@
     username:password format. Proxies do not seem to effect telegram at all, hence why I have not expended on it. 
     
@@ -76,7 +76,8 @@ I also sell my own telegram account generator if your in need of cheap private a
 ## Scrapers
 
     - Scrapers: Scraped users will always be added ontop of each other in user_info.json and user_ids.txt excluding 
-    duplicates. Also it's possible to stop scraping by pressing your enter key and save your progress.
+    duplicates. Also it's possible to stop scraping by pressing your enter key and save your progress. You will need
+    to enable adding to contacts for group adding.
 
     - Normal Scraper: This only works when a channel has their member list on public and only requires one client.
     (scrapes almost instantly)
@@ -94,8 +95,8 @@ I also sell my own telegram account generator if your in need of cheap private a
     - Add members to group: This feature ensures that your clients are joined to the specified group before adding the 
     scraped users. Within the 'adder' folder, you will find a configuration file where you can adjust the program's 
     waiting time and the number of members to be added per client. There is also an option 'additional_joined_check'
-    that only counts adds after checking if their actually in (this might cause more privacy errors) While private 
-    groups are supported, channels are not. Make sure that the clients are admin in the group.
+    that only counts adds after checking if their actually in (this might cause more privacy errors) For channels 
+    invites will be sent instead of immediately adding. Make sure that the clients are admin in the group.
     
     - Admin Promoter: This feature needs atleast one of your clients to be admin in the channel and your clients to
     have usernames. You can use the "Username Changer" to guarantee this works. You get to choose if the admin
@@ -146,12 +147,17 @@ I also sell my own telegram account generator if your in need of cheap private a
       multiple clients but I see no reason why this would be used with multiple since they will be sending the same msg
       at the same time.
 
-     - Shiller: Send messages with multiple clients to your group or channels, config thats in groupadvertiser/config
-       is used for this aswell but only the join and fetch part. For the message part use shiller.json found in
-       groupadvertiser folder aswell. You can stop messaging by pressing enter and having the window focussed.
+    - Shiller: Send messages with multiple clients to your group or channels, config thats in groupadvertiser/config
+      is used for this aswell but only the join and fetch part. For the message part use shiller.json found in
+      groupadvertiser folder aswell. You can stop messaging by pressing enter and having the window focussed.
       
 		  
 ## Suggestions / Feedback
+
+I'm open to any suggestions / feedback!
+
+For questions, you can always contact me on telegram: https://t.me/MrGrassss
+
 
 I'm open to any suggestions / feedback!
 
