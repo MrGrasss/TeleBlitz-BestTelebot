@@ -1,4 +1,4 @@
-![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/caca70f2-d02c-4960-ba7c-84ba61073c71)
+![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/a8a998f6-3ab1-4396-9d61-cb36c1370ad0)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss.
@@ -37,6 +37,7 @@ I also sell my own telegram account generator if your in need of cheap private a
     # Message Views
     # Copy New Messages
     # Shiller
+    # Clearing Contacts
 
 ## Future:
 
@@ -77,7 +78,7 @@ I also sell my own telegram account generator if your in need of cheap private a
 
     - Scrapers: Scraped users will always be added ontop of each other in user_info.json and user_ids.txt excluding 
     duplicates. Also it's possible to stop scraping by pressing your enter key and save your progress. You will need
-    to enable adding to contacts for group adding.
+    to enable adding to contacts for users with no username.
 
     - Normal Scraper: This only works when a channel has their member list on public and only requires one client.
     (scrapes almost instantly)
@@ -129,6 +130,9 @@ I also sell my own telegram account generator if your in need of cheap private a
       topic, meaning if you try to use 1 client for multiple topics and the first topic will have slow the others will 
       always be skipped. 
     
+    - Mass Forwarder: Forwards full messages from your channek to user list. Adding to contacts should be enabled during
+      scraping for this to function properly.
+
     - MassDM (Copy): This is the same as the mass forwarder except instead of forwarding we copy the given message and 
       send it as a dm. There is an option to randomly edit your message on flags, see 'Prevent MASSDM flags' below.
 
