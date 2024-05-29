@@ -1,4 +1,4 @@
-![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/6751ed42-f179-42c5-9c5c-8e466ab1ef0e)
+![Screenshot_2](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/7b918ff3-45d2-40bc-95b8-b4034b8f607d)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss.
