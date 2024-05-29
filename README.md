@@ -1,4 +1,4 @@
-![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/a8a998f6-3ab1-4396-9d61-cb36c1370ad0)
+![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/6751ed42-f179-42c5-9c5c-8e466ab1ef0e)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss.
@@ -38,6 +38,7 @@ I also sell my own telegram account generator if your in need of cheap private a
     # Copy New Messages
     # Shiller
     # Clearing Contacts
+    # Group/Channel Cleaner
 
 ## Future:
 
@@ -111,6 +112,10 @@ I also sell my own telegram account generator if your in need of cheap private a
     - Group-List Creator: This uses the groups.txt in groupadvertiser and automatically uses the fullfetcher to create
     Folders of max 100 chats per folder. Full fetch does not have to be turned on BUT all clients have to be in all
     channels in 'groups.txt'to make this go smoothly. 'seconds_between_fetch' applies here too if full fetch is on.
+
+    - Group/Channel Cleaner: Fully fetches all groups and channels in groupadvertiser/groups.txt and uses config.json
+    in the groupadvertiser with cleaner_min_members and cleaner_max_members and seconds_between_fetch. After cleaning
+    the groups will overwrite exisiting groups.
 
 ## Advertising
 
