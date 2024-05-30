@@ -135,7 +135,7 @@ I also sell my own telegram account generator if your in need of cheap private a
       topic, meaning if you try to use 1 client for multiple topics and the first topic will have slow the others will 
       always be skipped. 
     
-    - Mass Forwarder: Forwards full messages from your channek to user list. Adding to contacts should be enabled during
+    - Mass Forwarder: Forwards full messages from your channel to user list. Adding to contacts should be enabled during
       scraping for this to function properly.
 
     - MassDM (Copy): This is the same as the mass forwarder except instead of forwarding we copy the given message and 
