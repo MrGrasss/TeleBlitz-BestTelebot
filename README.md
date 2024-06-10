@@ -1,4 +1,4 @@
-![Screenshot_2](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/7b918ff3-45d2-40bc-95b8-b4034b8f607d)
+![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/774e8513-050e-4d39-8099-716dce98a38a)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss.
@@ -39,6 +39,7 @@ I also sell my own telegram account generator if your in need of cheap private a
     # Shiller
     # Clearing Contacts
     # Group/Channel Cleaner
+    # Comments Shiller
 
 ## Future:
 
@@ -135,7 +136,7 @@ I also sell my own telegram account generator if your in need of cheap private a
       topic, meaning if you try to use 1 client for multiple topics and the first topic will have slow the others will 
       always be skipped. 
     
-    - Mass Forwarder: Forwards full messages from your channel to user list. Adding to contacts should be enabled during
+    - Mass Forwarder: Forwards full messages from your channek to user list. Adding to contacts should be enabled during
       scraping for this to function properly.
 
     - MassDM (Copy): This is the same as the mass forwarder except instead of forwarding we copy the given message and 
@@ -158,9 +159,11 @@ I also sell my own telegram account generator if your in need of cheap private a
 
     - Shiller: Send messages with multiple clients to your group or channels, config thats in groupadvertiser/config
       is used for this aswell but only the join and fetch part. For the message part use shiller.json found in
-      groupadvertiser folder aswell. You can stop messaging by pressing enter and having the window focussed.
+      groupadvertiser folder aswell. You can stop messaging by pressing f10 and having the window focussed.
+    
+    - Comments Shiller: Shills messages their text from a channel to another channel as comments. You can stop messaging
+      by pressing f10 and having the window focussed.
       
-		  
 ## Suggestions / Feedback
 
 I'm open to any suggestions / feedback!
