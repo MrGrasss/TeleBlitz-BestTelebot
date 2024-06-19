@@ -157,12 +157,11 @@ I also sell my own telegram account generator if your in need of cheap private a
       multiple clients but I see no reason why this would be used with multiple since they will be sending the same msg
       at the same time.
 
-    - Shiller: Send messages with multiple clients to your group or channels, config thats in groupadvertiser/config
-      is used for this aswell but only the join and fetch part. For the message part use shiller.json found in
-      groupadvertiser folder aswell. You can stop messaging by pressing f10 and having the window focussed.
+    - Shiller: Send messages with multiple clients to your group or channels. The config thats in groupadvertiser/config
+      is used for this aswell but only the join and fetch part and the groups.txt for all the groups to shill in.
+      For the message part use shiller.json. 
     
-    - Comments Shiller: Shills messages their text from a channel to another channel as comments. You can stop messaging
-      by pressing f10 and having the window focussed.
+    - Comments Shiller: Same as shiller but comments on discussions instead. This will always copy instead of forward.
       
 ## Suggestions / Feedback
 
