@@ -161,7 +161,7 @@ I also sell my own telegram account generator if your in need of cheap private a
       is used for this aswell but only the join and fetch part and the groups.txt for all the groups to shill in.
       For the message part use shiller.json. 
     
-    - Comments Shiller: Same as shiller but comments on discussions instead. This will always copy instead of forward.
+    - Comments Shiller: Same as shiller but comments on discussions instead. Choose between copy or forwarding.
       
 ## Suggestions / Feedback
 
