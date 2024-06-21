@@ -1,4 +1,4 @@
-![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/774e8513-050e-4d39-8099-716dce98a38a)
+![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/f00b5017-6f4b-493a-a22d-111394b2da65)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss.
@@ -40,10 +40,11 @@ I also sell my own telegram account generator if your in need of cheap private a
     # Clearing Contacts
     # Group/Channel Cleaner
     # Comments Shiller
+    # Phone Scraper
 
 ## Future:
 
-    # Increasing performance of every feature due to telegram changes
+    # Any suggestions will be added
 
 # Extra functionality Info
 ## Login & Setup
@@ -92,6 +93,9 @@ I also sell my own telegram account generator if your in need of cheap private a
     - Verification Scraper: This feature uses the title of the channel to scrape the members, this would normally not
     work with the channel its @. Make sure that atleast one of your clients is in this channel through manually
     verifying if needed.
+
+    - Phone Scraper: Uses phone_list.txt in phone_scraper folder and saves info from scraped numbers to user_info in 
+      the same phone_scraper folder. Saves to JSON and Excel.
   
 ## Groups
 
