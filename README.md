@@ -1,4 +1,4 @@
-![Screenshot_1](https://github.com/MrGrasss/TeleBlitz-BestTelebot/assets/132838549/f00b5017-6f4b-493a-a22d-111394b2da65)
+![Screenshot_1](https://github.com/user-attachments/assets/34a3e775-6d33-4610-861a-aea320e40d2d)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss.
@@ -159,7 +159,7 @@ I also sell my own telegram account generator if your in need of cheap private a
     
     - Copy New Messages: Copy new messages from specified group/channel to your own group/channel. Can be used with 
       multiple clients but I see no reason why this would be used with multiple since they will be sending the same msg
-      at the same time.
+      at the same time. You can put keywords per line to be blocked in groupadvertiser/copy_blocked_keywords.txt
 
     - Shiller: Send messages with multiple clients to your group or channels. The config thats in groupadvertiser/config
       is used for this aswell but only the join and fetch part and the groups.txt for all the groups to shill in.
@@ -172,3 +172,4 @@ I also sell my own telegram account generator if your in need of cheap private a
 I'm open to any suggestions / feedback!
 
 For questions, you can always contact me on telegram: https://t.me/MrGrassss
+
