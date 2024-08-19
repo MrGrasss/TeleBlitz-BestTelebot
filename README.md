@@ -1,4 +1,4 @@
-![Screenshot_1](https://github.com/user-attachments/assets/34a3e775-6d33-4610-861a-aea320e40d2d)
+![Screenshot_2](https://github.com/user-attachments/assets/622b7ed3-7bd5-4377-a098-1c06f1839199)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss.
@@ -41,6 +41,7 @@ I also sell my own telegram account generator if your in need of cheap private a
     # Group/Channel Cleaner
     # Comments Shiller
     # Phone Scraper
+    # Pre-joined Group Advertiser
 
 ## Future:
 
@@ -166,10 +167,16 @@ I also sell my own telegram account generator if your in need of cheap private a
       For the message part use shiller.json. 
     
     - Comments Shiller: Same as shiller but comments on discussions instead. Choose between copy or forwarding.
-      
+    
+    - Pre-joined Group Advertiser: Same as the groupadvertiser but instead of using full fetch or groups.txt it gathers
+      all groups that the clients are already a part of and starts advertising in them with the same forward delays in
+      groupadvertiser/config.json. Uses all_groups_forwarded_delay_minutes, seconds_between_all_clients and 
+      seconds_between_failed
+
 ## Suggestions / Feedback
 
 I'm open to any suggestions / feedback!
 
 For questions, you can always contact me on telegram: https://t.me/MrGrassss
+
 
