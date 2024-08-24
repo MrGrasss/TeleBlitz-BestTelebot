@@ -1,4 +1,4 @@
-![Screenshot_2](https://github.com/user-attachments/assets/622b7ed3-7bd5-4377-a098-1c06f1839199)
+![Screenshot_1](https://github.com/user-attachments/assets/d674d75b-1f35-4a8a-896c-b693fc26faf5)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss.
@@ -42,6 +42,7 @@ I also sell my own telegram account generator if your in need of cheap private a
     # Comments Shiller
     # Phone Scraper
     # Pre-joined Group Advertiser
+    # Unique Multi Joiner
 
 ## Future:
 
@@ -111,7 +112,7 @@ I also sell my own telegram account generator if your in need of cheap private a
     appears invisible and the title this admin should have.
     
     - Group-List Joiner: This uses 'https://t.me/addlist/6wxnTZgrHSU2ZmM6' to add up to 100 groups at once and join them
-    instantly with no limitations. These links need to be put in 'groupadvertiser/forumgroups.txt' in the format I 
+    instantly with no limitations. These links need to be put in 'groupadvertiser/grouplist.txt' in the format I 
     showed above or the last part of the link so in this case '6wxnTZgrHSU2ZmM6'. Joined groups get exported into
     'exported_groupslist.txt' to be used in groups.txt for the normal advertiser.  (Groups should have usernames)
 
@@ -122,6 +123,10 @@ I also sell my own telegram account generator if your in need of cheap private a
     - Group/Channel Cleaner: Fully fetches all groups and channels in groupadvertiser/groups.txt and uses config.json
     in the groupadvertiser with cleaner_min_members and cleaner_max_members and seconds_between_fetch. After cleaning
     the groups will overwrite exisiting groups.
+    
+    - Unique Multi Joiner: Same as multi group joiner but allows unique group lists per client. Automatically opens a
+      a txt per client to put the groups in. supports channelname, @channelname, https://t.me/joinchat/,  https://t.me/,
+      http and t.me/. (public groups only)
 
 ## Advertising
 
@@ -178,5 +183,3 @@ I also sell my own telegram account generator if your in need of cheap private a
 I'm open to any suggestions / feedback!
 
 For questions, you can always contact me on telegram: https://t.me/MrGrassss
-
-
