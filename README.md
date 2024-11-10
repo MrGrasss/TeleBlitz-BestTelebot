@@ -1,4 +1,4 @@
-![Screenshot_1](https://github.com/user-attachments/assets/d674d75b-1f35-4a8a-896c-b693fc26faf5)
+![Screenshot_1](https://github.com/user-attachments/assets/4ddf400a-2726-43ae-bcd2-bcb9aa069f71)
 
 Welcome to the only allround telegram bot on the market!
 This is a licensed tool and can be purchased by contacting https://t.me/MrGrassss.
@@ -43,6 +43,7 @@ I also sell my own telegram account generator if your in need of cheap private a
     # Phone Scraper
     # Pre-joined Group Advertiser
     # Unique Multi Joiner
+    # GPT Replier
 
 ## Future:
 
@@ -177,9 +178,16 @@ I also sell my own telegram account generator if your in need of cheap private a
       all groups that the clients are already a part of and starts advertising in them with the same forward delays in
       groupadvertiser/config.json. Uses all_groups_forwarded_delay_minutes, seconds_between_all_clients and 
       seconds_between_failed
+    
+    - GPT Replier: Automatically replies to messages in a specified Telegram group or channel using openai. 
+      The bot can be configured to reply based on a specified percentage of messages and uses a custom prompt for 
+      context. This prompt can be created in the 'gpt_replier' folder and should be named 'prompt.txt'. 
+      I already tell gpt what its job is so you don't have to worry about that. Only add the context of the chat and how
+      it should behave to the prompt.
 
 ## Suggestions / Feedback
 
 I'm open to any suggestions / feedback!
 
 For questions, you can always contact me on telegram: https://t.me/MrGrassss
+
